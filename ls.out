@@ -1,0 +1,6 @@
+total 8
+drwxr-xr-x   5 kevinjohnson  staff  170 Jun 24 22:09 .
+drwxr-xr-x   3 kevinjohnson  staff  102 Jun 24 10:03 ..
+drwxr-xr-x  13 kevinjohnson  staff  442 Jun 24 10:03 .git
+-rw-r--r--   1 kevinjohnson  staff   22 Jun 24 10:03 README.md
+-rw-r--r--   1 kevinjohnson  staff    0 Jun 24 22:09 ls.out
